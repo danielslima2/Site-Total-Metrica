@@ -42,6 +42,7 @@ export default {};
 .bg-info {
     background-color: white !important;
     box-shadow: 0px 4px 44px 0px rgb(0 0 0 / 14%);
+    height: 100px;
 }
 .navbar-dark .navbar-toggler {
     color: #26221f;
